@@ -1,3 +1,4 @@
 /correction/*
 /quizzes/*
 /__pycache__/*
+/unitTests/__pycache__/*
