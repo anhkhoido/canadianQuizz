@@ -3,3 +3,5 @@
 /__pycache__/*
 /unitTests/__pycache__/*
 /customNumbers/__pycache__/*
+/unitTests/*.log
+canadianQuizz.log
