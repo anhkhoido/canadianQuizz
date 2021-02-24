@@ -2,3 +2,4 @@
 /quizzes/*
 /__pycache__/*
 /unitTests/__pycache__/*
+/customNumbers/__pycache__/*
